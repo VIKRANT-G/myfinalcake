@@ -1,0 +1,14 @@
+.formContainer {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 80vw;
+    border: none;
+    box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #2b1e15;
+    color: white;
+}
